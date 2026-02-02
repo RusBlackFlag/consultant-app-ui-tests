@@ -8,7 +8,7 @@ import db.LicenceDbHelper;
 public class LoginTests extends BaseTest {
 
     @Test
-    void adminCanLoginSuccessWithLicence() {
+    void adminCanLoginSuccessWithLicenceTest() {
         LicenceDbHelper.deleteAllLicenses();
         LicenceDbHelper.insertLicense();
 
@@ -17,7 +17,7 @@ public class LoginTests extends BaseTest {
     }
 
     @Test
-    void adminCanLoginSuccessWithoutLicence() {
+    void adminCanLoginSuccessWithoutLicenceTest() {
         LicenceDbHelper.deleteAllLicenses();
 
         new ConsultantSteps(page).loginAsAdmin();

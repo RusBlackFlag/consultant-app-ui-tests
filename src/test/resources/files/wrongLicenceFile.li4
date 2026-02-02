@@ -1,0 +1,169 @@
+[ {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "3265113913" ],
+  "version" : "4.6",
+  "product" : "HYBRID",
+  "features" : [ "uds", "egais", "loyalty", "plazius", "rsloyalty", "WeightControl", "loya", "heineken", "terrasoft", "loymax", "goldcrown", "spasibo" ],
+  "featuresDate" : { },
+  "type" : "HASP",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ ]
+}, {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "1a91-5450-68db-b815", "a846-13d9-b9bc-eaa6" ],
+  "version" : "1.0",
+  "product" : "LM",
+  "features" : [ ],
+  "featuresDate" : { },
+  "type" : "HW",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ ]
+}, {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "8358523852:AAH70BeZqcyBq0ItuWe5VQZnL5ijceYIt8E", "8398718648:AAHIvXmgPY-Kod30uzglFh-10UEy5Y2SnsM" ],
+  "version" : "1.0",
+  "product" : "TELEGRAM_BOT",
+  "features" : [ ],
+  "featuresDate" : { },
+  "type" : "HW",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ ]
+}, {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "8006-9f36-d247-0bfc" ],
+  "version" : "4.0",
+  "product" : "CONTROL_CENTER",
+  "features" : [ ],
+  "featuresDate" : { },
+  "type" : "HW",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ ]
+}, {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "2630092983" ],
+  "version" : "4.6",
+  "product" : "POS",
+  "features" : [ "uds", "egais", "loyalty", "plazius", "rsloyalty", "loya", "heineken", "terrasoft", "loymax", "goldcrown", "spasibo" ],
+  "featuresDate" : { },
+  "type" : "HW",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ ]
+}, {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "13d7-9d0f-f1f4-5345", "8e2e-6253-21f6-4314", "177f-0654-8e15-b2a4", "6a1c-9898-b4ca-9ca2", "1f2e-2e12-29ea-8065", "452d-4d73-af87-f8f2", "4455-9378-fa43-62f3" ],
+  "version" : "1.0",
+  "product" : "CONSULTANT_APP",
+  "features" : [ "consultantappshopamount" ],
+  "featuresDate" : { },
+  "type" : "HW",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ {
+    "name" : "consultantappshopamount",
+    "endDate" : "",
+    "amount" : "1"
+  } ]
+}, {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "123455" ],
+  "version" : "2.2",
+  "product" : "SERVER",
+  "features" : [ "nps" ],
+  "featuresDate" : { },
+  "type" : "HW",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ {
+    "name" : "nps",
+    "endDate" : "",
+    "amount" : "1"
+  } ]
+}, {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "2b85-6de5-72ec-7753", "4927-f05e-83be-f91a", "2568-00e4-49d1-12ac", "197f-0553-2189-fe7c", "982d-acfa-6924-0b37", "e891-f79b-0d26-f702", "d448-c020-e261-9332" ],
+  "version" : "2.0",
+  "product" : "PC",
+  "features" : [ "pricecheckerconnections" ],
+  "featuresDate" : { },
+  "type" : "HW",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ {
+    "name" : "pricecheckerconnections",
+    "endDate" : "",
+    "amount" : "1"
+  } ]
+}, {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "ac0e-338c-a71b-bf93" ],
+  "version" : "2.0",
+  "product" : "PC",
+  "features" : [ "pricecheckerconnections" ],
+  "featuresDate" : { },
+  "type" : "HW",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ {
+    "name" : "pricecheckerconnections",
+    "endDate" : "",
+    "amount" : "10"
+  } ]
+}, {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "eb3f-fb51-9f32-0ea2", "63ee-ea22-eab5-cf16", "ff9a-1021-9b93-f16e" ],
+  "version" : "2.0",
+  "product" : "PC",
+  "features" : [ "pricecheckerconnections" ],
+  "featuresDate" : { },
+  "type" : "HW",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ {
+    "name" : "pricecheckerconnections",
+    "endDate" : "",
+    "amount" : "2"
+  } ]
+}, {
+  "expirationDate" : "2026-06-19",
+  "lastBuildDate" : "2026-06-16",
+  "keys" : [ "43c6-fe79-33e9-a8d9" ],
+  "version" : "2.0",
+  "product" : "PC",
+  "features" : [ "pricecheckerconnections" ],
+  "featuresDate" : { },
+  "type" : "HW",
+  "itsContractName" : null,
+  "lastOnlineLicencingDate" : "",
+  "itsMonitoring" : null,
+  "extendedFeatures" : [ {
+    "name" : "pricecheckerconnections",
+    "endDate" : "",
+    "amount" : "5"
+  } ]
+} ]
+PNmIJg7wshQxAbKEA3IjDxKwmBPppmWKUjUy55UVNuSKzEh8u8pB42k2RtPMjRjA0

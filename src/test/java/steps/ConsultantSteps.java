@@ -84,5 +84,17 @@ public class ConsultantSteps {
     public void assertCashNameChanged(String expectedName) {
         settingsPage.assertCashNameVisible(expectedName);
     }
+
+    public void uploadWrongFileLicence() {
+        licencePage.uploadLicenceFile("wrongLicenceFile.li4");
+        licencePage.waitForLicenceErrorNotification();
+
+        assertTrue(
+                licencePage.isLicenceErrorMessageCorrect(
+                        "Файл лицензии не действителен"
+                ),
+                "Ожидалось сообщение об ошибке лицензии"
+        );
+    }
 }
 

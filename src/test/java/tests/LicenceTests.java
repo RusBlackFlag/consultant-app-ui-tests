@@ -5,16 +5,14 @@ import db.LicenceDbHelper;
 import org.junit.jupiter.api.Test;
 import steps.ConsultantSteps;
 
-public class LicensingShopTests extends BaseTest {
-
+public class LicenceTests extends BaseTest {
 
     @Test
-    void adminCanLicenseShopSuccessfullyTest() {
-        LicenceDbHelper.deleteAllLicenses();
-
+    void uploadWrongIDLicenceFileTest() {
         ConsultantSteps steps = new ConsultantSteps(page);
+
         steps.loginAsAdmin();
-        steps.licenseShop();
-        steps.assertShopLicensed();
+        steps.openLicencePage();
+        steps.uploadWrongFileLicence();
     }
 }

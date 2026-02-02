@@ -7,7 +7,7 @@ import steps.ConsultantSteps;
 public class CashTests extends BaseTest {
 
     @Test
-    void editNameOfCash() {
+    void editNameOfCashTest() {
         ConsultantSteps steps = new ConsultantSteps(page);
         steps.loginAsAdmin();
         steps.openSettingsPage();
